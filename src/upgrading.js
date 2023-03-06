@@ -40,7 +40,6 @@ upgrading.use(async (req, res) => {
     if (req.body.Tx_Hash && req.body.Mint_address) {
       alllog({
         method: req.method,
-        auth: authHeader,
         headers: req.headers.file
       });
 

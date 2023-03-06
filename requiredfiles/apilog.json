@@ -1,12 +1,8 @@
 [
   {
-    "Time": "2023-03-04T17:16:12.838Z",
+    "Time": "2023-03-06T11:46:21.928Z",
     "Method": {
-      "parameter": {
-        "method": "PATCH",
-        "auth": "Bearer O3@12345",
-        "headers": "updatedwithtype.json"
-      }
+      "parameter": "PATCH"
     }
   }
 ]

@@ -4764,9 +4764,9 @@
       "id": "1532",
       "Skin_Color": "Silver",
       "Last_Uri": "https://nftstorage.link/ipfs/bafkreiahdvayvjeqtknwah5z3mvmgu2ajsww2bwef4ilkbo7aaxyyxacju",
-      "Status": "Unupgraded",
-      "Upgraded_Transaction_details": "",
-      "Upgraded_Uri": ""
+      "Status": "upgraded",
+      "Upgraded_Transaction_details": "4vvnvKR5qZ9FvjpNWNfw6jNQUz7qztmrAukxhxULMTRG2j8P6VPXoGxSexWPuY6YCU5qEApCvkNZGdWV17HEy4xJ",
+      "Upgraded_Uri": "https://arweave.net/vlr9HHo3nxfxaPJ9UqfoQdE1BSD-h__CwPEprMyw56c"
     }
   },
   {

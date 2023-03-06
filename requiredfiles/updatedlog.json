@@ -328,5 +328,15 @@
         "token": "Ezkk514zTo1dS3qcoqrtfr7pYMaRxba3VSjyWSgXKbqj"
       }
     }
+  },
+  {
+    "Time": "2023-03-06T11:46:29.860Z",
+    "Message": {
+      "message": {
+        "type": "Update Done",
+        "tx_details": "35yaW7qUqUnBNtgzuGcbPgWtUXDGsQnUmeSvbzCmrG1yucpgcMQiK3eTgmFg1FAqyMKPqog9w1VZ9atQMeBwqJwC",
+        "token": "7Lx4xamXoLsZnguRuQsMTUnDNJqdyUkxnAZFpeBdeJVh"
+      }
+    }
   }
 ]

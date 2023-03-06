@@ -59120,7 +59120,8 @@
         "value": "Silver Felyne Aura"
       }
     ],
-    "Status": "False"
+    "Status": "upgraded",
+    "token_mint": "7Lx4xamXoLsZnguRuQsMTUnDNJqdyUkxnAZFpeBdeJVh"
   },
   {
     "name": "Sovereign #1405",
